@@ -1,8 +1,12 @@
 *What happens when you initialize a repository? Why do you need to do it?*
-It's create a hidden file named .git, and after that you have a empty repository, we have to get lacated in git bash into the directory
+It's create a hidden file named .git, and after that you have a empty repository, we have to get located in git bash into the directory
 that we want to create the repository and type git init.
 
 *How is the staging area different from the working directory and the repository? What value do you think it offers?*
-In the staging area it's like a reserved space where we can select which files we want to save changes, the value it that
+In the staging area it's like a reserved space where we can select which files we want to save changes, the value is that
 it's really helpful to make just one logical change per commit, because we can add the files we want and save changes without the obligation
 that could be save a lot changes per commit.
+
+*How can you use the staging area to make sure you have one commit per logical change?*
+Maybe we had to making a lot changes in different files, and we want just make 1 commit per logical change, so we just add
+some changes first to the staging area and commit them, without to have to commit all the changes with the commit.
