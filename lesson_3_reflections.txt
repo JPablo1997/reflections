@@ -3,3 +3,7 @@ When we are working in a big project with another people, and we will making cha
 
 *Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?*
 Because if we have public our remote, and someone else make commits, maybe we won't accept those commits. and we can save commits in a organize way.
+
+*Describe the differences between forks, clones, and branches. When would you use one instead of another?*
+Fork means create a copy of a repository into our account of github, clone that means create a copy of a repository in github or a local repository into our computer(local) not in github.
+A branch is like a new version of a project, maybe a new feature, that we have  just experiment and we don't want to add into the master branch or main version.
