@@ -8,5 +8,6 @@ Because if we have public our remote, and someone else make commits, maybe we wo
 Fork means create a copy of a repository into our account of github, clone that means create a copy of a repository in github or a local repository into our computer(local) not in github.
 A branch is like a new version of a project, maybe a new feature, that we have  just experiment and we don't want to add into the master branch or main version.
 
-*Here go the next question*
-
+*What is the benefit of having a copy of the last known state of the remote stored locally?*
+For example the thing that we already seen, if we are working with other ppl, if they make changes that affect the work or
+erase something important and we don't know exactly what it, with that copy we can know that, it's like a back up, really important.
