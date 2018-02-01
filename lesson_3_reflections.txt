@@ -16,3 +16,7 @@ erase something important and we don't know exactly what it, with that copy we c
 Mmm maybe i would work in something of the project and pass to the others with a rar and then other person would work in the same
 file, and so on. It would be harder because some people are lazy and maybe we will think that they are working on the project and they are doing nothing
 and that would be a lost time because someone else would like to colaborate. and a thing easier for me don't exist.
+
+*When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?*
+When we don't make changes directly to the master branch maybe because we want to share our ideas with the co-workers, so then we make a pull request.
+The benefits it's to make it more organized and always help to work in team. 
